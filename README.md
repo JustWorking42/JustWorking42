@@ -4,13 +4,13 @@
 
 ## About
 
-Hello! I'm JustWorking42, a passionate software developer with a focus on web development. I love building things that make a difference in the world.
+Hello! I'm JustWorking42, a passionate software developer with a focus on mobile and backend development. I love building applications that make a difference in the world.
 
 ## Skills
 
-- **Front-end**: JavaScript, HTML, CSS, React.js
-- **Back-end**: Node.js, Express.js, MongoDB
-- **Tools**: Git, Docker, Jenkins
+- **Mobile Development**: Java, Kotlin
+- **Backend Development**: Java, Kotlin, Go
+- **Tools**: Git, Docker, SQL
 
 ## Projects
 
